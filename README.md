@@ -51,34 +51,34 @@ Full functional website for small/medium size companies. Users can access data a
 
 ### Register
 <p align="center">
-  <img width="460" height="300" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/register.JPG">
+  <img width="760" height="400" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/register.JPG">
 </p>
 
 
 ### Images
 Function: Add new image and delete
 <p align="center">
-  <img width="460" height="300" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/images.JPG">
+  <img width="760" height="400" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/images.JPG">
 </p>
 
 ### Employees
 Function: Add new employee by filling the form, update employee'ss information (name, department, status, etc), delete employee
 <p align="center">
-  <img width="460" height="300" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/employees.JPG">
+  <img width="760" height="400" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/employees.JPG">
 </p>
 
 
 ### Departments
 Function: Create new department, delete department
 <p align="center">
-  <img width="460" height="300" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/departments.JPG">
+  <img width="760" height="400" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/departments.JPG">
 </p>
 
 
 ### User History
 Listing all user history
 <p align="center">
-  <img width="460" height="300" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/login.JPG">
+  <img width="760" height="400" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/login.JPG">
 </p>
 
 ## Getting Started
