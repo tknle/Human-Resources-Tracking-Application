@@ -51,14 +51,14 @@ Full functional website for small/medium size companies. Users can access data a
 
 ### Register
 <p align="center">
-  <img width="760" height="400" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/register.JPG">
+  <img width="760" height="300" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/register.JPG">
 </p>
 
 
 ### Images
 Function: Add new image and delete
 <p align="center">
-  <img width="760" height="400" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/images.JPG">
+  <img width="460" height="400" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/images.JPG">
 </p>
 
 ### Employees
