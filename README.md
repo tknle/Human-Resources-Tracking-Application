@@ -37,8 +37,8 @@ Full functional website for small/medium size companies. Users can access data a
 
 ## Highlights
 
-- The project helped me gain a deep insight into both the website front-end and back-end. I mainly used **Bootstrap** for the front of the site and managing data using **MongoDB**. 
-
+- The project helped me gain a deep insight into both the website front-end and back-end. The website deployed using **HerokuApp**, I mainly used **Bootstrap** for the front of the site and managing data using **MongoDB**. 
+- Some highlights: **Node.js**, **Express.js**, **ES6**, **Routing**, **Middleware**, **Error Handling**, **HTML Forms**, **Template Engines – Handlebars.js**, **NoSQL Database**, **MongoDB Atlas**, **AJAX**, **Cookies & Sessions**, **Password Encryption - bcrypt.js**
 
 
 ## Demo
