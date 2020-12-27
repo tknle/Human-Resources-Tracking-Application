@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela&display=swap");
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Varela', sans-serif;
+
+}
+a{
+    color: white;
+}
+nav{
+    background-color: #00B4AB;
+}
+
+.container a{
+    color: blue;
+}
+.container a:hover{
+    color:blueviolet;
+}
+.nav>li>a:hover{
+    background-color: #8AE3D7;
+}
+
+.navbar-brand{
+    color: white;
+}
+.nav{
+    font-weight: 500;
+}
+.icon-bar{
+    background-color: white;
+}
+
+.container-fluid .navbar-nav li.active > a {
+	background-color: #8AE3D7;
+    color: white;
+    border-radius: 25px;
+    padding: 16px; 
+    width: auto;
+    height: auto; 
+}
