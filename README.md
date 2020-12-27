@@ -45,7 +45,7 @@ Full functional website for small/medium size companies. Users can access data a
 
 ### Mainpage
 <p align="center">
-  <img width="660" height="400" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/main.JPG">
+  <img width="760" height="400" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/main.JPG">
 </p>
 
 
