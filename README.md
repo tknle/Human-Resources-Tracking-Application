@@ -44,26 +44,42 @@ Full functional website for small/medium size companies. Users can access data a
 ## Demo
 
 ### Mainpage
-![Main](https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/main.JPG)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/main.JPG">
+</p>
+
 
 ### Register
-![Register](https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/register.JPG)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/register.JPG">
+</p>
+
 
 ### Images
 Function: Add new image and delete
-![Images](https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/images.JPG)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/images.JPG">
+</p>
 
 ### Employees
 Function: Add new employee by filling the form, update employee'ss information (name, department, status, etc), delete employee
-![Employees](https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/employees.JPG)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/employees.JPG">
+</p>
+
 
 ### Departments
 Function: Create new department, delete department
-![Departments](https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/departments.JPG)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/departments.JPG">
+</p>
+
 
 ### User History
 Listing all user history
-![User-History](https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/login.JPG)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/tknle/Human-Resources-Tracking-Application/blob/main/login.JPG">
+</p>
 
 ## Getting Started
 
