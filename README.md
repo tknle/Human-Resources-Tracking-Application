@@ -22,7 +22,7 @@ Full functional website for small/medium size companies. Users can access data a
  
 ## About the project
 
-### Technologies
+### ⚡ Technologies
 
 ![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@ Full functional website for small/medium size companies. Users can access data a
 ![MongoDB](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=239120)
 
 
-## Highlights
+### ⚡ Highlights
 
 - The project helped me gain a deep insight into both the website front-end and back-end. The website deployed using **HerokuApp**, I mainly used **Bootstrap** for the front of the site and managing data using **MongoDB**. 
 - Some highlights: **Node.js**, **Express.js**, **ES6**, **Routing**, **Middleware**, **Error Handling**, **HTML Forms**, **Template Engines – Handlebars.js**, **NoSQL Database**, **MongoDB Atlas**, **AJAX**, **Cookies & Sessions**, **Password Encryption - bcrypt.js**
